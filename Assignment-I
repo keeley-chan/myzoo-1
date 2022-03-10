@@ -1,5 +1,6 @@
 # manhattanzoo
 
+
 ==================
 commands:
 git clone <<url>>         => Clone the remote repository@url
@@ -14,8 +15,7 @@ git diff                  => diff b/w working copy and staging area(index)
 git commit -m "<<MSG>>"   => Inline commit message, Saves changes to the repository
 git log
 git log -n               => View recent n commints
-git log --oneline         => View all commits
-git push                  => Push local commits to remote repository
+git log --oneline         => View all commits                  => Push local commits to remote repository
 =================
 
 1: Clone the below Git repository OR Open the link https://gitpod.io/#/https://github.com/winsonliwh/myzoo
