@@ -1,0 +1,23 @@
+[1mdiff --git a/meal-regimens.txt b/meal-regimens.txt[m
+[1mindex 4c528f7..106215c 100644[m
+[1m--- a/meal-regimens.txt[m
+[1m+++ b/meal-regimens.txt[m
+[36m@@ -12,4 +12,15 @@[m [mDirections: Empty bags over meadow area during designated times[m
+ 3. Long-Tailed Chinchillas[m
+ Meal: 1 bag animal pellets, 1 bag dried fruit, 1/2 bag cashews, 5 carrots, 3 stalks kale[m
+ Times: 8:00 am[m
+[31m-Directions: disperse contents throughout Chinchilla habitat[m
+\ No newline at end of file[m
+[32m+[m[32mDirections: disperse contents throughout Chinchilla habitat[m
+[32m+[m
+[32m+[m
+[32m+[m[32m4. Poison Dart Frogs[m
+[32m+[m[32mMeal: 1 bag small crickets[m
+[32m+[m[32mTimes: 6:00 am[m
+[32m+[m[32mDirections: empty bag in frog habitat once daily. Do not touch frogs! Extremely poisonous.[m
+[32m+[m
+[32m+[m[32m5. Western Lowland Gorilla[m
+[32m+[m[32mMeal: (Morning) 20 lbs. kale, 10 lbs. celery, 10 lbs. green beans, 5 lbs. carrots, 1 bag sweet potatoes. (Evening) 10 Bananas, 10 apples, 5 oranges, 5 mango, 20 lbs. grapes, 10 lbs. turnips, 5 lbs. white potatoes[m
+[32m+[m[32mTimes: 6:30 am, 12:00 pm, 7:00 pm[m
+[32m+[m[32mDirections: feed Gorillas in the morning as group, spread forage items during noon meal, and divide quantities for individual feeding in evening[m
+\ No newline at end of file[m
